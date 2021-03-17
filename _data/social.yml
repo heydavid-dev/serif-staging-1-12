@@ -1,0 +1,7 @@
+main:
+  - name: "Github"
+    link: "https://github.com/"
+    image: "/images/social/github.png"
+  - name: "Twitter"
+    link: "https://twitter.com/"
+    image: "/images/social/twitter.png"
